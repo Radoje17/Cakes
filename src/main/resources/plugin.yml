@@ -1,0 +1,8 @@
+name: Cakes
+version: ${project.version}
+main: me.radoje17.cakes.Cakes
+api-version: 1.16
+authors: [ Radoje17 ]
+commands:
+  start:
+    description: Započni igru
